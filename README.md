@@ -1,2 +1,3 @@
 # Ecosystem-of-AI
+Project 2 in the program AI Business Consultant (2023) @ Hyper Island 
 You will get to explore the world of AI, yesterday, today and tomorrow. What is AI? What are the possibilities, how does it work and where can we connect the dots between society, business and AI as a technology? What roles are there and what can you do with AI? In this project you will get a crash course of the broad aspects of business and how AI are transforming the way business is being done as well as talk about the impacts on our society. You will also look into ethical and legal aspects of working with AI. Current global trends in key related areas of the program are explored.
